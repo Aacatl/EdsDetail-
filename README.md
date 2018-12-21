@@ -1,0 +1,2 @@
+# EdsDetail-
+Version 1
